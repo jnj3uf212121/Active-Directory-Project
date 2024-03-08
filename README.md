@@ -9,6 +9,9 @@ This document provides a detailed guide for setting up an Active Directory (AD) 
 - Installation media for Windows Server and Windows 10 as ISO files.
 - Basic understanding of Hyper-V, networking, and Windows Server administration.
 
+## Network Topology 
+- https://docs.google.com/drawings/d/14Ejmn-PXhvNuduf8B8btyDfmqrQRE6wrtix0ODIfAfw/edit
+
 ## Hyper-V Configuration
 
 ### Virtual Switch Setup
