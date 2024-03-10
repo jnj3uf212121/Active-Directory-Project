@@ -1,4 +1,4 @@
-![Topology Photo](SCHOOL NETWORK TOPOLOGY.png)
+([SCHOOL NETWORK TOPOLOGY.png](https://github.com/jnj3uf212121/Active-Directory-Project/blob/main/SCHOOL%20NETWORK%20TOPOLOGY.png))
 
 # School Network Topology Project
 
