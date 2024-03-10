@@ -1,4 +1,4 @@
-![TOPOLOGY DIAGRAM]([image_url](https://github.com/jnj3uf212121/Active-Directory-Project/blob/main/SCHOOL%20NETWORK%20TOPOLOGY.png))
+![TOPOLOGY DIAGRAM](SCHOOL NETWORK TOPOLOGY.png)
 
 # School Network Topology Project
 
