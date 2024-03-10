@@ -1,5 +1,6 @@
+![TOPOLOGY DIAGRAM]([image_url](https://github.com/jnj3uf212121/Active-Directory-Project/blob/main/SCHOOL%20NETWORK%20TOPOLOGY.png))
+
 # School Network Topology Project
--
 
 ## Introduction
 This project outlines the creation and configuration of a school network topology using Windows Server 2019 for server roles and Windows 10 Enterprise for client testing. The setup includes a domain controller, DHCP server, and file server, aimed at managing domain operations, dynamic IP allocation, and centralized resource sharing within a school environment.
