@@ -1,4 +1,4 @@
-![SCHOOL NETWORK TOPOLOGY.png](SCHOOL NETWORK TOPOLOGY.png)
+![Topology Photo](SCHOOL NETWORK TOPOLOGY.png)
 
 # School Network Topology Project
 
