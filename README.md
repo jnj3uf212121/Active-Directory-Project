@@ -1,4 +1,4 @@
-([SCHOOL NETWORK TOPOLOGY.png](https://github.com/jnj3uf212121/Active-Directory-Project/blob/main/SCHOOL%20NETWORK%20TOPOLOGY.png))
+[SCHOOL NETWORK TOPOLOGY.png](https://github.com/jnj3uf212121/Active-Directory-Project/blob/main/SCHOOL%20NETWORK%20TOPOLOGY.png)
 
 # School Network Topology Project
 
@@ -21,6 +21,7 @@ This project outlines the creation and configuration of a school network topolog
 - File services for centralized storage.
 
 ## Project Setup and Configuration
+
 ### Domain Controller: Thor
 - **Role**: Domain management and authentication.
 - **IP/Network Settings**: 10.0.0.101/255.255.255.0, DNS 127.0.0.1.
