@@ -1,53 +1,45 @@
 # Educational Network Infrastructure Deployment: A Windows Server 2019 and Windows 10 Integration Project
 
-## Introduction
-This project outlines the creation and configuration of a school network topology using Windows Server 2019 for server roles and Windows 10 Enterprise for client testing. The setup includes a domain controller, DHCP server, and file server, aimed at managing domain operations, dynamic IP allocation, and centralized resource sharing within a school environment.
+## Introduction:
+- Led the creation and configuration of a school network topology utilizing Windows Server 2019 for server roles and Windows 10 Enterprise for client testing.
+- Established a domain controller, DHCP server, and file server to manage domain operations, dynamic IP allocation, and centralized resource sharing within the educational environment.
 
-## Objectives
-- **Deploy a secure domain** for efficient network management.
-- **Configure a DHCP server** for dynamic IP address allocation.
-- **Set up a file server** for centralized educational resources access.
-- **Incorporate a Windows 10 Enterprise client machine** to test the functionality of user accounts and access permissions.
-- **Implement Group Policy** for security and access control.
+## Responsibilities:
+- Project Coordination: Ensured alignment with organizational objectives and educational requirements through meticulous planning and execution.
+- Infrastructure Management: Oversaw deployment and configuration of essential network components, including domain controller, DHCP server, and file server.
+- Testing and Troubleshooting: Conducted thorough testing and troubleshooting to validate network functionality and promptly resolve technical issues.
+- Stakeholder Collaboration: Collaborated with stakeholders to define user requirements and implement access controls and security policies.
+- User Training and Support: Provided training and support to end-users for seamless integration and utilization of network services.
+- Documentation: Documented project milestones, configurations, and best practices for knowledge sharing and future reference.
 
-## Technologies Used
-- Windows Server 2019 for Domain Controller, DHCP Server, and File Server.
-- Windows 10 Enterprise for client testing.
-- Hyper-V for virtualization.
-- Active Directory for domain services.
-- DHCP services for network IP management.
-- File services for centralized storage.
+## Key Achievements:
+- Secure Domain Deployment: Successfully deployed a secure domain for efficient network management.
+- DHCP Configuration: Overcame initial configuration challenges to configure DHCP server for dynamic IP address allocation.
+- Centralized Resource Access: Established a file server for centralized access to educational resources.
+- User Account Testing: Conducted thorough testing of user accounts and access permissions using a Windows 10 Enterprise client machine.
+- Security Implementation: Implemented Group Policy for enhanced security and access control across the network.
 
-## Project Setup and Configuration
+## Technologies Used:
+- Windows Server 2019 (Domain Controller, DHCP Server, File Server)
+- Windows 10 Enterprise
+- Hyper-V for virtualization
+- Active Directory
+- DHCP services
+- File services
 
-### Domain Controller: Thor
-- **Role**: Domain management and authentication.
-- **IP/Network Settings**: 10.0.0.101/255.255.255.0, DNS 127.0.0.1.
-- **Key Configurations**: Creation of the domain `acs.edcc.ctc.edu`, Domain Admin account setup.
+## Project Setup and Configuration:
+- Orchestrated the setup and configuration of key network components:
+  - Domain Controller: Thor
+  - DHCP Server: Atlas
+  - File Server: Zeus
+  - Windows 10 Enterprise Client Machine
 
-### DHCP Server: Atlas
-- **Role**: IP address management.
-- **IP/Network Settings**: 10.0.0.102/255.255.255.0, Gateway 10.0.0.101.
-- **Key Configurations**: DHCP range setup, gateway, and DNS configuration.
+## Challenges and Solutions:
+- DHCP Configuration Challenges: Addressed IP conflicts by adjusting allocation range and excluding static IPs.
 
-### File Server: Zeus
-- **Role**: Centralized file storage.
-- **IP/Network Settings**: 10.0.0.103/255.255.255.0, Gateway 10.0.0.101.
-- **Key Configurations**: Share `profile$` establishment for Domain Users with Full Control permissions.
+## Conclusion:
+- Successfully established a fully functional school network topology, enhancing operational efficiency and security through real-world user account testing.
+- Provided valuable insights into network performance and scalability, laying the groundwork for future enhancements.
 
-### Windows 10 Enterprise Client Machine
-- **Purpose**: To test the user accounts created in the domain controller, ensuring proper domain join, user authentication, and access to shared resources.
-- **Configuration**: Joined to the `acs.edcc.ctc.edu` domain, tested various user roles for access and restrictions.
-
-## Group Policy Configurations
-- Remote Desktop enabled for Domain Admins and Users on all servers and client machines.
-- Firewall disabled across all systems for uninterrupted network communication.
-
-## Challenges and Solutions
-Encountered DHCP configuration issues leading to IP conflicts. Adjusted the DHCP allocation range and excluded static IPs to resolve.
-
-## Conclusion
-The project successfully established a fully functional school network topology, enhanced by the integration of a Windows 10 Enterprise client machine for real-world user account testing. This approach provided valuable insights into the network's operational efficiency and security posture.
-
-## Future Enhancements
-Future improvements will focus on advanced security features, additional network services like print servers, and exploring scalability options to support network growth.
+### Future Enhancements:
+- Plan to incorporate advanced security features, additional network services such as print servers, and explore scalability options to support network growth.
