@@ -1,4 +1,4 @@
-# School Network Topology Project
+# Educational Network Infrastructure Deployment: A Windows Server 2019 and Windows 10 Integration Project
 
 ## Introduction
 This project outlines the creation and configuration of a school network topology using Windows Server 2019 for server roles and Windows 10 Enterprise for client testing. The setup includes a domain controller, DHCP server, and file server, aimed at managing domain operations, dynamic IP allocation, and centralized resource sharing within a school environment.
