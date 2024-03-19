@@ -1,5 +1,3 @@
-**Educational Network Infrastructure Deployment: A Windows Server 2019 and Windows 10 Integration Project**
-
 **Introduction:**
 I spearheaded the creation and configuration of a school network topology, utilizing Windows Server 2019 for server roles and Windows 10 Enterprise for client testing. I established a domain controller, DHCP server, and file server to manage domain operations, dynamic IP allocation, and centralized resource sharing within the educational environment.
 
