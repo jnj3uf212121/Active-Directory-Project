@@ -5,7 +5,6 @@ I spearheaded the creation and configuration of a school network topology, utili
 - **Project Coordination:** Personally ensured alignment with organizational objectives and educational requirements through meticulous planning and execution.
 - **Infrastructure Management:** Single-handedly oversaw deployment and configuration of essential network components, including the domain controller, DHCP server, and file server.
 - **Testing and Troubleshooting:** Conducted comprehensive testing and troubleshooting to validate network functionality and promptly resolve technical issues.
-- **User Training and Support:** Provided training and support to end-users for seamless integration and utilization of network services.
 - **Documentation:** Documented project milestones, configurations, and best practices for knowledge sharing and future reference.
 
 **Key Achievements:**
