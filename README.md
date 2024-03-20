@@ -22,9 +22,6 @@ I spearheaded the creation and configuration of a school network topology, utili
 - DHCP services
 - File services
 
-**Project Setup and Configuration:**
-I orchestrated the setup and configuration of key network components, including the Domain Controller (Thor), DHCP Server (Atlas), File Server (Zeus), and Windows 10 Enterprise Client Machine.
-
 **Challenges and Solutions:**
 - **DHCP Configuration Challenges:** I addressed IP conflicts by adjusting the allocation range and excluding static IPs.
 
